@@ -1,1 +1,1 @@
-# crolling_lecture
+# Python 웹 크롤링 실습
